@@ -33,6 +33,7 @@ The following **additional** features are implemented:
 ## Notes
 
 v1 is done without storyboard and only has vertical view and optimized for iPhone 14 Plus
+
 v2 is done utilizing storyboard and tested on multiple iPhone devices. Layout works both vertically and horizontially. 
 
 ## License
